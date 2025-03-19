@@ -1,0 +1,150 @@
+body{
+    background-color: #FBF8CC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#one{
+    color: #03045E;
+}
+
+.contain{
+    display: flex;
+    padding-left: 100px;
+    justify-content: space-between;
+}
+
+a{
+    color: #03045E;
+    text-decoration: none;
+}
+
+.img{
+    margin-top: 25px;
+}
+
+.links{
+    margin-top: 25px;
+    word-spacing: 20px;
+}
+
+#fder{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hower{
+    color: #03045E;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#dontno{
+    font-size: 1.4rem;
+}
+
+#dontkno{
+    font-size: 3.6rem;
+}
+
+#goro{
+    width: 120px;
+    height: 41px;
+    border-radius: 3px;
+    background-color: #F5EE84;
+    color: #474306;
+    border: none;
+}
+
+#doncar{
+    color: #F5EE84;
+    font-size: 3.2rem;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+#lorem{
+    color: #03045E;
+    margin-left: 100px;
+    font-size: 1.4rem;
+    margin-right: 290px;
+}
+
+ul{
+    font-size: 1.4rem;
+    margin-left: 200px;
+    color: #03045E;
+}
+
+#loren{
+    color: #03045E;
+    margin-left: 240px;
+    font-size: 1.4rem;
+}
+
+#toy{
+    font-size: 1.4rem;
+    margin-left: 200px;
+    color: #03045E;
+    margin-top: 120px;
+}
+
+#front{
+    border-radius: 20000px;
+    margin-top: 30px;
+}
+
+.images{
+    margin-left: 100px;
+    display: flex;
+    gap: 25px;
+}
+
+#it{
+    color: #03045E;
+}
+
+.italian{
+    display: flex;
+    margin-left: 100px;
+    gap: 417px;
+}
+
+#fought{
+    color: #03045E;
+}
+
+.italia{
+    display: flex;
+    margin-left: 100px;
+    gap: 357px;
+}
+
+.itali{
+    display: flex;
+    margin-left: 100px;
+    gap: 117px;
+}
+
+#lonrem{
+    color: #03045E;
+}
+
+#lonem{
+    color: #03045E;
+    margin-right: 160px;
+}
+
+.space{
+    margin-left: 100px;
+    display: flex;
+}
+
+#suprise{
+    margin-left: 50px;
+    margin-right: 250px;
+}
+
+#lop{
+    color: #03045E;
+    margin-left: 50px;
+}
